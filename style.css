@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    margin: 0 auto;
+    margin: 0;  
     
 }
 *{
@@ -17,10 +17,10 @@ h1{
 }
 
 .quiz_wrapper{
-    height: 80px;
+    height: 180px;
     width: 100%;
     background-color: white;
-    margin: 50px 10px;
+    margin: 50px 0px;
     border-radius: 8px;
     padding: 30px;
 }
