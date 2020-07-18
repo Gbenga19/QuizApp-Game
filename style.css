@@ -12,14 +12,15 @@ body{
 h1{
     text-align: center;
     color: white;
-    margin: 30px 0px 0px;
+    margin: ;
+    padding: 10px
 }
 
 .quiz_wrapper{
-    height: 400px;
-    width: 600px;
+    height: ;
+    width: 100%;
     background-color: white;
-    margin: 50px auto;
+    margin: 50px 20px;
     border-radius: 8px;
     padding: 30px;
 }
