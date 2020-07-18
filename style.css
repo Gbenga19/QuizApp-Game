@@ -17,10 +17,10 @@ h1{
 }
 
 .quiz_wrapper{
-    height: ;
-    width: 100%;
+    height: auto;
+    width: 150%;
     background-color: white;
-    margin: 50px 20px;
+    margin: 50px 10px;
     border-radius: 8px;
     padding: 30px;
 }
@@ -80,7 +80,7 @@ h1{
 .quiz_wrapper .score{
     float: left;
     width: 100%;
-    padding: 25px 0px;
+    padding: 25px 5px;
 }
 .quiz_wrapper   .score .next button{
     padding: 15px 70px;
@@ -110,7 +110,7 @@ h1{
 }
 .quiz_wrapper .score .score-card span{
     background-color: blue;
-    padding: 5px 20px;
+    padding: 5px 30px;
     border-radius: 8px;
     color: white;  
 }
